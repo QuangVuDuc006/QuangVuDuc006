@@ -1,4 +1,12 @@
+<div align="center">
+
 # Hi, I'm Vu Duc Quang 👋
+
+### AI/ML Engineer | LLM • RAG • Speech AI • Backend
+
+Building practical and deployable AI systems.
+
+</div>
 
 AI/ML Engineer focused on building practical and deployable AI systems.
 
