@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Vu Duc Quang 👋
 
-<!--
-**QuangVuDuc006/QuangVuDuc006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer focused on building practical and deployable AI systems.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in Machine Learning, LLMs, RAG and Speech Processing
+- Building AI products that can be deployed and used in real-world scenarios
+- Currently developing VietMeet AI and Nexa AI Workspace
+- Learning more about AI deployment, evaluation and MLOps
+
+## Featured Projects
+
+### VietMeet AI
+
+Vietnamese meeting intelligence platform for transcription, summarization and searchable meeting knowledge.
+
+### Nexa AI Workspace
+
+Self-hosted AI workspace with multi-provider LLM support, RAG, citations, memory and secure API-key management.
+
+## Tech Stack
+
+`Python` `Machine Learning` `LLM` `RAG` `Flask` `FastAPI` `React` `PostgreSQL` `Redis` `Docker` `Git`
+
+## Contact
+
+- LinkedIn: Add your LinkedIn link
+- Portfolio: Coming soon
+- Email: Add your email
