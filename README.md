@@ -23,34 +23,36 @@ Building deployable AI systems in Speech AI, RAG and LLM applications.
 
 ### 🎙️ [VietMeet AI](https://github.com/QuangVuDuc006/VietMeet-ai)
 
-A Vietnamese meeting intelligence platform designed to transform meeting audio into structured and searchable knowledge.
+A Vietnamese meeting intelligence platform that transforms audio recordings into timestamped transcripts and structured meeting knowledge.
 
-**Key features:**
+**Engineering highlights:**
 
-- Vietnamese speech-to-text transcription
-- Meeting summarization
-- Searchable meeting knowledge
-- AI-powered meeting processing pipeline
+* Built an asynchronous speech-processing pipeline with FastAPI, PostgreSQL and background workers
+* Implemented audio preprocessing, voice activity detection and bounded chunking
+* Evaluated Vietnamese speech recognition on 100 VIVOS samples
+* Achieved **21.75% normalized WER**, **10.67% normalized CER** and **0.087 real-time factor**
+* Developed a React interface for audio upload, processing progress and transcript viewing
 
-**Tech:** `Python` `Speech-to-Text` `LLM` `FastAPI` `Docker`
+**Tech:** `Python` `FastAPI` `Whisper` `React` `PostgreSQL` `FFmpeg` `Docker`
 
 ---
 
-### 🧠 [Nexa AI Workspace](https://github.com/QuangVuDuc006/Nexa-AI-Workspace)
+### 🧠 [Nexa AI Workspace](https://github.com/QuangVuDuc006/Nexa-AI-Workspace-)
 
-A self-hosted AI workspace for chatting with multiple LLM providers and interacting with personal documents.
+A self-hosted AI workspace for chatting with multiple LLM providers and securely interacting with personal documents.
 
-**Key features:**
+**Engineering highlights:**
 
-- Multi-provider LLM support
-- Retrieval-Augmented Generation
-- Document upload and citations
-- Conversation memory
-- Secure BYOK API-key management
+* Built a multi-provider LLM architecture with streaming responses
+* Implemented a RAG pipeline using PostgreSQL and pgvector
+* Added document upload, semantic retrieval, citations and conversation memory
+* Secured user-provided API keys with encrypted BYOK management
+* Added tenant isolation, file validation, rate limiting and automated security tests
 
 **Tech:** `Python` `Flask` `React` `PostgreSQL` `pgvector` `Redis` `Docker`
 
 ---
+
 
 ## Tech Stack
 
