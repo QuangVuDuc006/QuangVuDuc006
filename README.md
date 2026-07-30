@@ -72,13 +72,6 @@ A self-hosted AI workspace for chatting with multiple LLM providers and securely
 
 `MLOps` `Model Evaluation` `AI Deployment` `Agentic AI`
 
-## Currently Learning
-
-- Evaluation and optimization of RAG systems
-- AI model deployment and inference pipelines
-- MLOps and production monitoring
-- AI agents and workflow automation
-
 ---
 
 ## GitHub Statistics
@@ -96,10 +89,7 @@ A self-hosted AI workspace for chatting with multiple LLM providers and securely
 ## Contact
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:vuducquangbin@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="YOUR_PORTFOLIO_URL">
