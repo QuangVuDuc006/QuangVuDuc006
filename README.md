@@ -56,30 +56,21 @@ A self-hosted AI workspace for chatting with multiple LLM providers and securely
 
 ## Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,sql" />
-</p>
-
 ### AI & Machine Learning
 
-`Machine Learning` `Deep Learning` `LLMs` `RAG` `Speech-to-Text`  
-`Scikit-learn` `PyTorch` `Transformers`
+`Machine Learning` `LLMs` `RAG` `Speech-to-Text` `Whisper` `Scikit-learn` `PyTorch`
 
-### Backend & Database
+### Backend & Data
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,postgres,redis" />
-</p>
+`Python` `FastAPI` `Flask` `PostgreSQL` `pgvector` `Redis`
 
-### Frontend & Tools
+### Frontend & Infrastructure
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,git,github,docker,linux,vscode" />
-</p>
+`React` `Vite` `Docker` `Git` `GitHub Actions`
 
----
+### Currently Learning
+
+`MLOps` `Model Evaluation` `AI Deployment` `Agentic AI`
 
 ## Currently Learning
 
