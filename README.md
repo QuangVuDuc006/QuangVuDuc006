@@ -2,22 +2,20 @@
 
 # Hi, I'm Vu Duc Quang 👋
 
-### Aspiring AI/ML Engineer
+### AI/ML Engineering Student @ USTH
 
-Building practical AI systems with  
-**Machine Learning • LLMs • RAG • Speech Processing • Backend**
+Building deployable AI systems in Speech AI, RAG and LLM applications.
 
 </div>
 
----
-
 ## About Me
 
-- 🎓 Pursuing a career in **AI Engineering and Machine Learning**
-- 🤖 Interested in building practical, deployable AI products
-- 🔭 Currently working on **VietMeet AI** and **Nexa AI Workspace**
-- 🌱 Learning more about **RAG evaluation, model deployment and MLOps**
-- 💡 Particularly interested in **Speech AI, LLM applications and AI agents**
+* 🎓 Second-year ICT student at the University of Science and Technology of Hanoi
+* 🤖 Focused on building practical and deployable AI/ML systems
+* 🔭 Currently developing VietMeet AI and Nexa AI Workspace
+* 🎙️ Interested in Speech AI, LLM applications and Retrieval-Augmented Generation
+* 🌱 Currently learning AI deployment, evaluation and MLOps
+* 💼 Open to AI/ML Engineering internship opportunities
 
 ---
 
