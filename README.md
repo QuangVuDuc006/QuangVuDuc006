@@ -15,7 +15,7 @@
 
 ## About
 
-I am a second-year ICT student at the University of Science and Technology of Hanoi, focused on turning coursework and experiments into useful, deployable software. My current work explores speech AI, large language model applications, and retrieval-augmented generation.
+I am a third-year ICT student at the University of Science and Technology of Hanoi, focused on turning coursework and experiments into useful, deployable software. My current work explores speech AI, large language model applications, and retrieval-augmented generation.
 
 ## Current Focus
 
